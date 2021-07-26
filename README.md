@@ -5,6 +5,6 @@
 - 🔭 I’m currently working and contributing on ✨[WordPress CMS](https://profiles.w.org/fahimmurshed)✨
 - 🌱 I’m currently learning PHP, JS, English speaking.
 - 💬 Ask me about nothing :)
-- 📫 How to reach me: [Facebook](https://fb.com/gFahim), [Twitter](https://twitter.com/WPFahim), [Website](https://afahim.com/)
+- 📫 How to reach me: [Facebook](https://fb.com/gFahim), [Twitter](https://twitter.com/WPFahim), [Website](https://fahimm.com/)
 - ⚡ Fun fact: I am too friendly
 - 😄 Pronouns: Fah-ee-m Mur-sh-ee-d
